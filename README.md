@@ -140,5 +140,5 @@ Optimization/
 │   ├── optimizationML.pdf        # Rapport final
 │   └── sujetProjet.pdf           # Énoncé officiel
 ├── tp/
-│   └── tp.ipynb                  # TP complémentaire (régression)
+│   └── houssing.ipynb                  # TP complémentaire (régression)
 └── README.md                     # Ce fichier
